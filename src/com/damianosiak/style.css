@@ -1,0 +1,42 @@
+
+.default-color0.chart-series-area-fill { -fx-fill: rgba(0,204,0,1); }
+.default-color1.chart-series-area-fill { -fx-fill: rgba(204,204,204,1); }
+.default-color2.chart-series-area-fill { -fx-fill: rgba(0,74,231,1); }
+.default-color3.chart-series-area-fill { -fx-fill: rgba(0,148,231,1); }
+.default-color4.chart-series-area-fill { -fx-fill: rgba(139,26,0,1); }
+.default-color5.chart-series-area-fill { -fx-fill: rgba(192,40,0,1); }
+.default-color6.chart-series-area-fill { -fx-fill: rgba(228,104,0,1); }
+.default-color7.chart-series-area-fill { -fx-fill: rgba(92,68,11,1); }
+.default-color8.chart-series-area-fill { -fx-fill: rgba(113,115,84,1); }
+.default-color9.chart-series-area-fill { -fx-fill: rgba(159,147,113,1); }
+.default-color10.chart-series-area-fill { -fx-fill: rgba(194,183,155,1); }
+.default-color11.chart-series-area-fill { -fx-fill: rgba(201,194,175,1); }
+.default-color12.chart-series-area-fill { -fx-fill: rgba(248,110,170,1); }
+
+.default-color0.chart-series-area-line { -fx-fill: rgba(0,204,0,1); }
+.default-color1.chart-series-area-line { -fx-fill: rgba(204,204,204,1); }
+.default-color2.chart-series-area-line { -fx-fill: rgba(0,74,231,1); }
+.default-color3.chart-series-area-line { -fx-fill: rgba(0,148,231,1); }
+.default-color4.chart-series-area-line { -fx-fill: rgba(139,26,0,1); }
+.default-color5.chart-series-area-line { -fx-fill: rgba(192,40,0,1); }
+.default-color6.chart-series-area-line { -fx-fill: rgba(228,104,0,1); }
+.default-color7.chart-series-area-line { -fx-fill: rgba(92,68,11,1); }
+.default-color8.chart-series-area-line { -fx-fill: rgba(113,115,84,1); }
+.default-color9.chart-series-area-line { -fx-fill: rgba(159,147,113,1); }
+.default-color10.chart-series-area-line { -fx-fill: rgba(194,183,155,1); }
+.default-color11.chart-series-area-line { -fx-fill: rgba(201,194,175,1); }
+.default-color12.chart-series-area-line { -fx-fill: rgba(248,110,170,1); }
+
+.default-color0.chart-area-symbol { -fx-fill: rgba(0,204,0,1); }
+.default-color1.chart-area-symbol { -fx-fill: rgba(204,204,204,1); }
+.default-color2.chart-area-symbol { -fx-fill: rgba(0,74,231,1); }
+.default-color3.chart-area-symbol { -fx-fill: rgba(0,148,231,1); }
+.default-color4.chart-area-symbol { -fx-fill: rgba(139,26,0,1); }
+.default-color5.chart-area-symbol { -fx-fill: rgba(192,40,0,1); }
+.default-color6.chart-area-symbol { -fx-fill: rgba(228,104,0,1); }
+.default-color7.chart-area-symbol { -fx-fill: rgba(92,68,11,1); }
+.default-color8.chart-area-symbol { -fx-fill: rgba(113,115,84,1); }
+.default-color9.chart-area-symbol { -fx-fill: rgba(159,147,113,1); }
+.default-color10.chart-area-symbol { -fx-fill: rgba(194,183,155,1); }
+.default-color11.chart-area-symbol { -fx-fill: rgba(201,194,175,1); }
+.default-color12.chart-area-symbol { -fx-fill: rgba(248,110,170,1); }
